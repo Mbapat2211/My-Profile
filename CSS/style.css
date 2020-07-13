@@ -1,0 +1,142 @@
+body{
+	background-image: url(../Images/base.jpg);
+	background-position: center;
+	min-height: 500px;
+	background-size: 100%;
+	color: darkblue;
+	font-size: 16px; 
+	line-height: 1.6em;
+	margin: 0;
+}
+
+#main-header{
+	text-align: center;
+	font-size: 50px;
+	background-image: url(../Images/background.jpg);
+	background-position: center;
+	min-height: 100px;
+	color: orange;
+	font-weight: bold;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#my-profile{
+	background-image: url(../Images/my-profile.jpg);
+	min-height: 200px;
+	font-weight: bold;	
+}
+
+#navbar{
+	background-color: green;
+}
+
+#navbar ul{
+	padding: 0;
+	list-style: none;
+	text-align: left;
+}
+
+#navbar li{
+	display: inline;
+}
+
+#navbar a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 25px;
+	padding-left: 8%;
+}
+
+#navbar a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+#my-image{
+	float: left;
+	height: 20%;
+	width: 20%;
+}
+
+#my-profile p{
+	margin-left: 35%;
+	text-align: justify;
+	font-size:25px;
+	line-height: 0.5em; 
+}
+
+#my-profile h3{
+	font-size: 40px;
+	text-align: left;
+	margin-left: 40%;
+}
+
+#main-content h3{
+	font-family: Courier;
+	font-size: 55px;
+	text-align: center;
+	text-decoration: underline;
+	color: purple;
+}
+
+#main-content h4{
+	font-family: Courier;
+	font-size: 45px;
+	text-align: center;
+	color: purple;
+}
+
+#main-content p{
+	font-family: Courier;
+	font-size: 35px;
+	text-align: justify;
+	color: purple;
+	font-weight: bold;
+	line-height: 30px;
+}
+
+#img-orientation{
+	margin-left: 30%;
+	line-height: 40px;
+}
+
+#img-orientation h3{
+	font-size: 40px;
+}
+
+#img-orientation p{
+	font-size: 30px;
+}
+
+#my-achievements p{
+	font-size: 30px;
+}
+
+#my-achievements h4{
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+#my-contact{
+	margin-left: 25%;
+}
+
+.container a{
+	color: darkblue;
+}
+
+.container a:hover{
+	color: blue;
+}
+
+#main-footer{
+	text-align: center;
+	background-color: darkblue;
+	color: red;
+	font-size: 15px;
+}
