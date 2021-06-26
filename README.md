@@ -1,3 +1,11 @@
-A simple profile created using HTML and CSS. 
-This profile includes some basic information about myself. 
-I am still learning both HTML and CSS and hence this profile consists of very basic concepts.
+# My Profile
+
+A simple personal profile page created using HTML and CSS.
+
+## Objective
+
+To learn HTML and CSS and get started with the basics.
+
+## Information 
+
+The profile contains some basic information about myself and some of my likings, hobbies etc.
